@@ -1,8 +1,10 @@
-# 01-FIN-HA-C
+# 01-FIN-HA-CS
+
+![AfterPay](images/AfterPay-Logo-2015.png)
 
 ## Overview and Origin
 
-* Name of company
+## AfterPay
 
 * When was the company incorporated?
 
