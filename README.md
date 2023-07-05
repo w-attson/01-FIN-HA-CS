@@ -26,11 +26,11 @@
   
 * The market size for Australian investors is estimated to be around 7.7M[(10)](https://smallcaps.com.au/asx-investor-study-2023-record-number-adult-investors-women-younger-australians-market-growth/#:~:text=%E2%80%9COur%20latest%20study%20has%20found,38%25%20of%20Australian%20adults.%E2%80%9D). Engagement across Stakes platforms has totaled 1.082M over the last 3 Months, split between Desktop and Mobile at 57.68% and 42.82% respectively [(11)](https://pro.similarweb.com/#/digitalsuite/websiteanalysis/overview/website-performance/*/999/3m?webSource=Total&key=hellostake.com).
 
-![traffic-and-engagement](images/stake-traffic-and-engagement)
+![traffic-and-engagement](images/stake-traffic-and-engagement.png)
 
 * Geographical representation across the platfrom engagement is shown below [(11)](https://pro.similarweb.com/#/digitalsuite/websiteanalysis/overview/website-performance/*/999/3m?webSource=Total&key=hellostake.com):
 
-![traffic-geography](images/stake-traffic-geography)
+![traffic-geography](images/stake-traffic-geography.png)
 
 
 ##### What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
